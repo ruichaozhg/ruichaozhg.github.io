@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: watchtoearn.live
+Token: b24da3a0154ec496555eb2cc6477ce6d714566f1091c26439cb0d1e49387091a
